@@ -1,0 +1,6 @@
+Here is the result:--- 
+Hello this is from file 1.
+Hello, this is from file 2.
+Here is the result:--- 
+Hello this is from file 1.
+Hello, this is from file 2.
